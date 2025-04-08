@@ -1,0 +1,8 @@
+job 1 shakespeare.sub
+#job 2 job2sumSquaredDeviationsDataFiles.sub
+
+script pre 1 PRE.sh
+#script post 1 job1postSumSumsFindMean.sh
+#script post 2 job2postSumSumsSqDevFindSd.sh
+
+#parent 1
